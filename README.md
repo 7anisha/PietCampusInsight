@@ -20,5 +20,19 @@ This repository contains the source code and documentation for the Web Placement
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/7anisha/Placementcell_piet.git
+2. Install the dependencies:
+3. Configure the database connection 
+4. Run the application:
+The application will be accessible at `http://localhost:3000`.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, bug fixes, or improvements, please submit a pull request. Make sure to follow the existing coding style and include relevant tests.
+
+## Contact
+
+For any questions or inquiries, feel free to contact us at [anishu2001@gmail.com]
+
+
 
