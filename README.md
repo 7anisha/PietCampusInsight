@@ -5,10 +5,10 @@ This repository contains the source code and documentation for the Web Placement
 ## Features
 
 - **Student Registration**: Students can create an account, provide their personal details, and upload their resumes.
-- **Job Listings**: Companies can post job listings with details such as job description, requirements, and application deadlines.
+- **contact us**: users can contact if they have any issues or to give feedback.
 - **Application Management**: Students can view and apply for job listings, and recruiters can manage received applications.
-- **Interview Scheduling**: Recruiters can schedule and manage interview slots for shortlisted candidates.
-- **Notification System**: Automated email notifications are sent to students and recruiters regarding application status, interview schedules, etc.
+- **About college**: A detailed overview of college
+- **Placement cell**: Placement details,past stats and details of hiring company.
 - **Admin Dashboard**: An admin dashboard to manage users, job listings, and system configurations.
 
 ## Technologies Used
